@@ -6,6 +6,7 @@
     <authors>Claudio Luciano</authors>
     <owners>Claudio Luciano</owners>
     <projectUrl>https://github.com/claudioluciano/DotNetVueJS-Template</projectUrl>
+    <licenseUrl>https://github.com/claudioluciano/DotNetVueJS-Template/blob/master/LICENSE.md</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>DotNet core - VueJS + Webpack 4 + Babel</description>
     <copyright>Copyright 2018</copyright>

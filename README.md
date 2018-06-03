@@ -11,6 +11,7 @@ on the [Asp.NETCore 2.0 Vue 2 Starter - by DevHelp.Online](https://github.com/Ma
 *   [Prerequisites](#prerequisites)
 *   [Installation - Getting Started!](#installation)
 *   [Extras](#extras)
+*   [License](#license)
 *   [Special Thanks](#special-thanks)
 
 # Features
@@ -48,6 +49,14 @@ or
 # Extras
 
 *   Get Chrome DevTools for Vue [here](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
+
+---
+
+# License
+
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](/LICENSE)
+
+Copyright (c) 2018 [Claudio Luciano](https://github.com/claudioluciano)
 
 ---
 
