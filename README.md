@@ -1,7 +1,7 @@
 # Asp.NETCore 2.0 Vue 2 + Webpack 4 + Babel)
 
-This repo contains an aspnetcore + Vue.js 2 starter template (VS2017). The template is based
-on the [templates](https://github.com/MarkPieszak/aspnetcore-Vue-starter)
+This repo contains an Asp.NETCore + Vue.js 2. The template is based
+on the [Asp.NETCore 2.0 Vue 2 Starter - by DevHelp.Online](https://github.com/MarkPieszak/aspnetcore-Vue-starter)
 
 ---
 
@@ -10,7 +10,6 @@ on the [templates](https://github.com/MarkPieszak/aspnetcore-Vue-starter)
 *   [Features](#features)
 *   [Prerequisites](#prerequisites)
 *   [Installation - Getting Started!](#installation)
-*   [Upcoming Features](#upcoming-features)
 *   [Extras](#extras)
 *   [Special Thanks](#special-thanks)
 
@@ -32,7 +31,7 @@ on the [templates](https://github.com/MarkPieszak/aspnetcore-Vue-starter)
 
 # Installation / Getting Started:
 
-*   Install the template from nuget: dotnet new -i aspnetcorevuejs
+*   Install the template from nuget: `dotnet new -i aspnetcorevuejs`
 
 or
 
@@ -49,21 +48,6 @@ or
 # Extras
 
 *   Get Chrome DevTools for Vue [here](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
-
-# Upcoming Features (to-do list)
-
-**[TODO] Install template:**
-
-*   `dotnet new --install Microsoft.AspNetCore.SpaTemplates.Vue2Js`
-
-**[TODO] To use the template:**
-
-*   mkdir + chdir
-*   `dotnet new -l`
-*   `dotnet new vue2js`
-*   `dotnet restore`
-*   `npm install`
-*   Run the application (`dotnet run` or `npm run dev`)
 
 ---
 
