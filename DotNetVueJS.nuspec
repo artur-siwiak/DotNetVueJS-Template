@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>aspnetcorevuejs</id>
+    <version>1.0.0</version>
+    <authors>Claudio Luciano</authors>
+    <owners>Claudio Luciano</owners>
+    <projectUrl>https://github.com/claudioluciano/DotNetVueJS-Template</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>DotNet core - VueJS + Webpack 4 + Babel</description>
+    <copyright>Copyright 2018</copyright>
+    <tags>vuejs dotnettemplatevue vue</tags>
+  </metadata>
+</package>
