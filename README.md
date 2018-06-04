@@ -68,4 +68,4 @@ Nothing's ever perfect, but please let me know by creating an issue (make sure t
 
 ### Special Thanks
 
-Many thanks go out to Mark Pieszak, Mladen Mihajlovic [MarkPieszak](https://github.com/MarkPieszak) for make the awsome Asp.NETCore 2.0 Vue 2 Starter
+Many thanks go out to Mark Pieszak, Mladen Mihajlovic [MarkPieszak](https://github.com/MarkPieszak) for make the awesome Asp.NETCore 2.0 Vue 2 Starter
